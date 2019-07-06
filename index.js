@@ -13,3 +13,9 @@ function happyHolidayTo (){
   var holiday = "Independence Day"
   return (`Happy ${holiday}, ${name}!`)
 }
+
+function holidayCountdown (){
+  var days = "you"
+  var holiday = "Independence Day"
+  return (`Happy ${holiday}, ${name}!`)
+}
